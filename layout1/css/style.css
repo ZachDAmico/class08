@@ -63,6 +63,51 @@ nav img {
   color: white;
 }
 
+.firstSection h1 {
+  margin: 0;
+  text-align: center;
+  padding: 5% 0 2% 0;
+}
+
+.firstSection p {
+  text-align: center;
+}
+
+.videoButtonContainer {
+  text-align: center;
+  padding: 2% 0 10% 0;
+}
+
+.secondSection h3 {
+  text-align: center;
+  padding: 5% 0 0 0;
+}
+
+.secondSection p {
+  text-align: center;
+  padding: 2% 0 10% 0;
+}
+
+.thirdSection {
+  background: rgba(220, 223, 226, 1);
+}
+
+.thirdSectionPiece {
+  background: rgba(220, 223, 226, 1);
+  padding: 5% 10%;
+  float: left;
+}
+
+.imgPlaceholder {
+  height: 200px;
+  width: 400px;
+  background: rgb(105, 118, 136);
+}
+
+.thirdSection h4 {
+  text-align: center;
+}
+
 footer {
 }
 
