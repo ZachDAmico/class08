@@ -90,6 +90,8 @@ nav img {
 
 .thirdSection {
   background: rgba(220, 223, 226, 1);
+  height: 500px;
+  width: 100%;
 }
 
 .thirdSectionPiece {
@@ -108,7 +110,54 @@ nav img {
   text-align: center;
 }
 
+.fourthSection {
+  background: white;
+  padding: 10% 0 10% 0;
+}
+
+.fourthSection h4,
+p {
+  text-align: center;
+}
+
 footer {
+  height: 400px;
+  width: 100%;
+  background: rgb(24, 31, 41);
+}
+
+footer img {
+  padding: 2% 1% 0 1%;
+}
+
+footer h6 {
+  color: rgba(220, 223, 226, 1);
+  padding: 0 1%;
+}
+
+footer ul li {
+  list-style: none;
+  padding: 0 1%;
+}
+
+footer a {
+  color: rgba(220, 223, 226, 1);
+  text-decoration: none;
+}
+
+.contactInfo * {
+  color: white;
+  float: right;
+}
+
+.disclaimer {
+  padding: 2% 0;
+  color: white;
+  border-top: 2px solid white;
+}
+
+.disclaimerContainer img {
+  float: right;
 }
 
 /******************************************
