@@ -126,8 +126,14 @@ footer {
   background: rgb(24, 31, 41);
 }
 
+.contactImgContainer {
+  width: 50%;
+  float: left;
+}
+
 footer img {
   padding: 2% 1% 0 1%;
+  float: left;
 }
 
 footer h6 {
@@ -147,12 +153,15 @@ footer a {
 }
 
 .sitemapContainer {
+  padding: 2% 0;
   width: 50%;
+  float: left;
 }
 
 .contributeContainer {
-  padding: 25px 0 0 0;
+  padding: 25px 0 2% 0;
   width: 50%;
+  float: left;
 }
 
 /* .contactInfo * {
